@@ -1,2 +1,2 @@
 # Media3ComposeDemo
-Demo of Media3 with Compose Navigation
+Demo of Media3 with Compose
